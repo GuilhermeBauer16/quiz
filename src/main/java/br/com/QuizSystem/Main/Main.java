@@ -39,7 +39,7 @@ public class Main {
                         System.out.println("Question: " + question.getQuestion());
 
                         for (int i = 0; i < question.getAnswers().size(); i++) {
-                            
+
                             Answer answer = question.getAnswers().get(i);
                             System.out.println((i + 1) + " - " + answer.getAnswer());
                         }

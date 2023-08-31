@@ -15,6 +15,7 @@ public class UserAnswersDAO {
     }
 
     public void showAll() {
+
         String jpql = "SELECT u FROM UserAnswers u";
         Query query = entityManager.createQuery(jpql, UserAnswers.class);
         List<UserAnswers> userAnswers = query.getResultList();
@@ -30,6 +31,7 @@ public class UserAnswersDAO {
     }
 
     public void insert(UserAnswers userAnswers) {
+        
         entityManager.getTransaction().begin();
         entityManager.persist(userAnswers);
         entityManager.getTransaction().commit();

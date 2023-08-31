@@ -7,7 +7,7 @@ import java.util.List;
 @Entity
 @Table(name="questions")
 public class Question {
-
+    // Columns
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
@@ -16,6 +16,7 @@ public class Question {
     @OneToMany(mappedBy = "question" , cascade = CascadeType.ALL)
     private List<Answer> answers = new ArrayList<>();
 
+    // Getters and setters
     public String getQuestion() {
         return question;
     }
