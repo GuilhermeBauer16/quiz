@@ -20,6 +20,7 @@ public class CreateParameter {
                 break;
             } else {
                 System.out.println("Please type a number!");
+                scanner.next();
             }
         }
         return number;
@@ -35,6 +36,7 @@ public class CreateParameter {
                 break;
             } else {
                 System.out.println("Please type a number!");
+                scanner.next();
             }
         }
         return number;
