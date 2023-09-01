@@ -15,3 +15,6 @@ datas to the same  ID using  JPA's @ManyToOne annotation to establish
 relationships between multiple pieces of data for each ID.
 I also learned how to test if the alternatives are true  by  using a 
 Boolean column inside a  MySQL table, when 1 represents true and 0 represents false.
+
+## Author
+ www.linkedin.com/in/guilherme-bauer-desenvolvedor
