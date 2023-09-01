@@ -16,5 +16,10 @@ relationships between multiple pieces of data for each ID.
 I also learned how to test if the alternatives are true  by  using a 
 Boolean column inside a  MySQL table, when 1 represents true and 0 represents false.
 
+## Functions 
+
+* The quiz has 7 questions, and the user must be choose one of  the 4 available alternatives for each question.
+* Users have the possibility to view their past games.
+
 ## Author
  www.linkedin.com/in/guilherme-bauer-desenvolvedor
