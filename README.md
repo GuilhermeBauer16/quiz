@@ -24,5 +24,5 @@ Boolean column inside a  MySQL table, when 1 represents true and 0 represents fa
 * The quiz has 7 questions, and the user must be choose one of  the 4 available alternatives for each question.
 * Users have the possibility to view their past games.
 
-## Author
+## Author.   
  www.linkedin.com/in/guilherme-bauer-desenvolvedor
