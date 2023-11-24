@@ -10,7 +10,7 @@ Users can also view their past games.
 
 https://github.com/GuilhermeBauer16/quiz/assets/123701893/f11218ce-7256-4f5f-bd55-a8fdc9ae0bf9
 
-## Learnings
+## Learnings.     
 
 in this project , I learned how to use the JPA more effectively.
 I learned how to use a foreign key and relate multiple pieces of  
