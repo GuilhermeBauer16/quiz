@@ -3,7 +3,7 @@
 ## Objective                                          
        
 A quiz with 7 questions about various topics, in which each correct answer earns the player 10 points.
-Users can also view their past games.          
+Users can also view their past games.              
 
 ## Working example       
 ![image](https://github.com/GuilhermeBauer16/quiz/assets/123701893/7c1eb75c-8ec1-47c6-8e50-8c1a1327242d)
